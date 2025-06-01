@@ -1,6 +1,6 @@
 # Ticketing System
 
-A simple Laravel-based ticketing system for managing users, departments, tickets, and tickets notes.
+A simple Php-based ticketing system for managing users, departments, tickets, and tickets notes.
 
 ## 🚀 Getting Started
 
